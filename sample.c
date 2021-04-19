@@ -6,6 +6,8 @@ int main(void)
 	printf("hello world \n");
 	
 	return EXIT_SUCCESS;
-	//hi there
+	//hi there from git
+	//
+	//well hello there from kali
 }
 
